@@ -6,6 +6,6 @@
 ・System.Data.SQLite.Core.1.0.109.2
 ・System.Runtime.Serialization.Json.4.3.0
 
-また、起動には、ぐるなびAPIが必要です。
+また、起動には、ぐるなびAPIのKEYが必要です。
 ・GURUNAVI WEB SERVICE
   https://api.gnavi.co.jp/api/
